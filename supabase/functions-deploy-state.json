@@ -1,0 +1,37 @@
+{
+  "projectId": "68921649",
+  "functions": {
+    "admin-register": {
+      "hasChanged": false,
+      "hash": "47ea81271da2d41c35167d66f2f8cf14a3e2b59d24cc8346b77237799955775c"
+    },
+    "create-user": {
+      "hasChanged": false,
+      "hash": "a6eeb4748516e39efc296ca7cdc6a79170bbcd569f030ac8e44e5b3f9e92a144"
+    },
+    "send-notification": {
+      "hasChanged": false,
+      "hash": "ef9fe44c5f46719ea79026b14a8d40866b76184aa9fb972d24283ea9c4f925cc"
+    },
+    "stripe-checkout": {
+      "hasChanged": false,
+      "hash": "2dee4917a8c93deba0220bf830b6055202ee4bb4a2d1f58ebfb6a0dd8dcbb8e7"
+    },
+    "stripe-connect": {
+      "hasChanged": false,
+      "hash": "47538bf0d4971c982d8d59c1c7f1bcbf38d2cdea9fb29ce77b008864489ca3e5"
+    },
+    "stripe-refund": {
+      "hasChanged": false,
+      "hash": "7810f2933961d726dfced14b0afbafec285d0cc0b429bff8ea55d6bce2a4326b"
+    },
+    "stripe-webhook": {
+      "hasChanged": false,
+      "hash": "46ee5251f9b6ab93a78503c049f9636b54b56d7417a6f70a030a34fe4993d7b4"
+    },
+    "sync-payment": {
+      "hasChanged": false,
+      "hash": "fe988f4c9c75702c134458b58a142071d86d0095f3e0bb8c8b64c28f799f7bb1"
+    }
+  }
+}

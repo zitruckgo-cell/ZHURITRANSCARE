@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Zhuri Transcare</title>
+  <desc id="desc">Zhuri Transcare urgent medical delivery logo</desc>
+  <defs>
+    <path id="topArc" d="M 83 235 A 183 183 0 0 1 429 235" />
+    <path id="bottomArc" d="M 82 296 A 183 183 0 0 0 430 296" />
+    <linearGradient id="teal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d6b82" />
+      <stop offset="1" stop-color="#075468" />
+    </linearGradient>
+  </defs>
+  <circle cx="256" cy="256" r="232" fill="url(#teal)" stroke="#ffffff" stroke-width="9" />
+  <circle cx="256" cy="256" r="212" fill="none" stroke="#ffffff" stroke-width="4" />
+  <circle cx="256" cy="256" r="151" fill="none" stroke="#ffffff" stroke-width="4" />
+  <text fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="800" letter-spacing="2">
+    <textPath href="#topArc" startOffset="50%" text-anchor="middle">ZHURI TRANSCARE</textPath>
+  </text>
+  <text fill="#ffffff" font-family="Georgia, serif" font-size="22" letter-spacing="3">
+    <textPath href="#bottomArc" startOffset="50%" text-anchor="middle">URGENT MEDICAL DELIVERY</textPath>
+  </text>
+  <g transform="translate(74 220)">
+    <path d="M0 38h72l9-29 9 62 18-100 18 122 13-81 12 34h66" fill="none" stroke="#ef3434" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M270 23h64l27 25h32c12 0 21 7 24 18l8 28H270z" fill="#ffffff" />
+    <path d="M339 23v43h40l-28-27c-4-5-8-10-12-16z" fill="#0a6077" />
+    <rect x="374" y="66" width="17" height="8" rx="4" fill="#0a6077" />
+    <path d="M306 42h11v-11h11v11h11v11h-11v11h-11V53h-11z" fill="#0a6077" />
+    <path d="M252 33h41M245 47h47M238 61h54M230 75h63M222 89h71" stroke="#ffffff" stroke-width="5" stroke-linecap="round" />
+    <path d="M275 94h111" stroke="#0a6077" stroke-width="3" />
+    <circle cx="305" cy="96" r="21" fill="#ffffff" stroke="#0a6077" stroke-width="6" />
+    <circle cx="305" cy="96" r="7" fill="#0a6077" />
+    <circle cx="386" cy="96" r="21" fill="#ffffff" stroke="#0a6077" stroke-width="6" />
+    <circle cx="386" cy="96" r="7" fill="#0a6077" />
+  </g>
+  <path d="M58 256l16-7-5 7 5 7zM454 256l-16-7 5 7-5 7z" fill="#ef3434" />
+</svg>
